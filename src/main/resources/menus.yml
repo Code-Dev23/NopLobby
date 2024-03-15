@@ -1,0 +1,48 @@
+menus:
+  serverselector:
+    title: "Minigames"
+    rows: 3
+    items:
+      14:
+        type: RED_BED
+        display_name: "&cBedwars"
+        glow: false
+        amount: 1
+        lore:
+          - ""
+          - "&emoc a fac ru caz %player%"
+        actions:
+          right_click:
+            - "[closemenu]"
+          left_click: 
+            - "[message] &adio santo che negro che sei"
+  lobbyselector:
+    title: "Lobby Selector"
+    rows: 3
+    items:
+      10:
+        type: RED_WOOL
+        display_name: "&cLobby1"
+        glow: false
+        amount: 1
+        lore:
+          - ""
+          - "&emoc a fac ru caz %player%"
+        actions:
+          right_click:
+            - "[closemenu]"
+          left_click: 
+            - "[message] &adio santo che negro che sei"
+      12:
+        type: WHITE_WOOL
+        display_name: "&cLobby2"
+        glow: false
+        amount: 1
+        lore:
+          - ""
+          - "&emoc a fac ru caz %player%"
+        actions:
+          right_click:
+            - "[closemenu]"
+          left_click: 
+            - "[message] &adio santo che negro che sei"

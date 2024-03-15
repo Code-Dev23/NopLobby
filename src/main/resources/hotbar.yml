@@ -1,0 +1,25 @@
+items:
+  0:
+    type: COMPASS
+    display_name: "&6Minigames"
+    glow: true
+    amount: 1
+    lore:
+      - ""
+      - "&eRight Click to view all minigames!"
+    actions:
+      right_click:
+        - "[openmenu] serverselector"
+      left_click: []
+  1:
+    type: NETHER_STAR
+    display_name: "&eLobby Selector"
+    glow: true
+    amount: 1
+    lore:
+      - ""
+      - "&eRight Click to select a lobby!"
+    actions:
+      right_click:
+        - "[openmenu] lobbyselector"
+      left_click: []

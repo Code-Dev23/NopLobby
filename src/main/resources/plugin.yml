@@ -1,0 +1,4 @@
+name: NopLobby
+version: '${version}'
+main: it.scopped.noplobby.NopLobby
+api-version: '1.20'
